@@ -1,4 +1,5 @@
 Hotel Management Power BI Dashboard
+
 📌 Overview
 This project is an interactive Power BI dashboard designed for hotel performance monitoring. It visualizes key metrics such as Occupancy Rate, Average Daily Rate (ADR), Revenue per Available Room (RevPAR), Bookings, Cancellations, and Revenue trends. The dashboard enables hotel managers to track performance across weekly, monthly, and quarterly periods with clear, data-driven insights.
 
